@@ -85,9 +85,6 @@ const MainSection = () => {
           </div>
         </article>
       </section>
-      <section className="section2">
-        <BoxUI array={boxData} />
-      </section>
     </>
   );
 };

@@ -1,7 +1,7 @@
 .MainSection {
   max-width: 35%;
   margin: 50px auto;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 .MainSection .HeadingDiv h1 {
   font-size: 34px;
@@ -89,8 +89,4 @@
 .MainSection .highlighted-paragraph {
   font-style: italic;
   color: rgba(0, 0, 0, 0.7);
-}
-
-.section2 {
-  background-color: rgba(241, 238, 234, 0.315);
 }
