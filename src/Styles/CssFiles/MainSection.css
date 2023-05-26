@@ -1,0 +1,96 @@
+.MainSection {
+  max-width: 35%;
+  margin: 50px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.MainSection .HeadingDiv h1 {
+  font-size: 34px;
+  font-weight: 900;
+  line-height: 54px;
+}
+.MainSection .HeadingDiv p {
+  font-size: 22px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+}
+.MainSection .HeadingDiv figure {
+  margin: 50px 0 0 0;
+}
+.MainSection .HeadingDiv figure img {
+  width: 100%;
+  height: auto;
+}
+.MainSection .HeadingDiv figcaption {
+  text-align: center;
+  text-decoration: underline;
+}
+.hp-info-header {
+  display: flex;
+  align-items: center;
+}
+.hp-info-header img {
+  width: 60px;
+  height: 60px;
+  margin-right: 5px;
+}
+
+.hp-info-header span {
+  font-size: 14px;
+  color: black;
+  padding: 5px;
+}
+.hp-info-header span p {
+  color: #777;
+}
+
+.hp-bottom-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px auto 20px 0;
+  border-top: 0.5px solid #dbd5d5;
+  border-bottom: 0.5px solid #dbd5d5;
+  padding: 10px;
+}
+.hp-bottom-section .bottom-left-col {
+  flex: 0.2;
+  justify-content: space-between;
+}
+.hp-bottom-section .bottom-right-col {
+  display: flex;
+  flex: 0.2;
+  justify-content: space-between;
+}
+.hp-bottom-item img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.hp-bottom-item span {
+  font-size: 12px;
+  color: #777;
+  margin-right: 15px;
+}
+
+.MainSection h2 {
+  font-size: 24px;
+  line-height: 40px;
+  padding: 10px 0;
+}
+.MainSection p,
+.MainSection li {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  padding: 0px 0 10px 0;
+}
+
+.MainSection .highlighted-paragraph {
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.section2 {
+  background-color: rgba(241, 238, 234, 0.315);
+}
