@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Just Practice Webiste
+#link to originall => https://medium.com/javarevisited/develop-a-live-video-streaming-app-key-highlights-of-its-features-costs-and-teck-stack-cda1f8ea9c02
+
 ## Available Scripts
 
 In the project directory, you can run:
